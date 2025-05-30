@@ -1,2 +1,2 @@
 # RepositorioTeste
-Curso de Git e GitHub Guanabara
+Repositório criado durante o Curso de Git e GitHub Guanabara
